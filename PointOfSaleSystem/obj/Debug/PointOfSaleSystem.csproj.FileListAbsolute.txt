@@ -1,0 +1,146 @@
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\PointOfSaleSystem.exe.config
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\PointOfSaleSystem.exe
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\PointOfSaleSystem.pdb
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\Guna.UI2.dll
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.csprojAssemblyReference.cache
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.DatabaseSettings.resources
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.HomeScreen.resources
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Properties.Resources.resources
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.csproj.GenerateResource.cache
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.csproj.CoreCompileInputs.cache
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.csproj.CopyComplete
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.exe
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.pdb
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.MDI.resources
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Brands.resources
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Categories.resources
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Units.resources
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Products.resources
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Settings.resources
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Persons.resources
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.PurchaseInvoice.resources
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Login.resources
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Inventory.resources
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Ledgers.resources
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.POS.resources
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.QuantityForm.resources
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.SearchProducts.resources
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.SaleReceiptForm.resources
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\stdole.dll
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Qazi Mubin\Desktop\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Expenses.resources
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\PointOfSaleSystem.exe.config
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\PointOfSaleSystem.exe
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\PointOfSaleSystem.pdb
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\AxShockwaveFlashObjects.dll
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.Shared.dll
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\Guna.UI2.dll
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\ShockwaveFlashObjects.dll
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\stdole.dll
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.csproj.AssemblyReference.cache
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Brands.resources
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Categories.resources
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.DatabaseSettings.resources
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Expenses.resources
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Inventory.resources
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Ledgers.resources
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Login.resources
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.MDI.resources
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.HomeScreen.resources
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Persons.resources
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.POS.resources
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Products.resources
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Properties.Resources.resources
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.PurchaseInvoice.resources
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.QuantityForm.resources
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.SaleReceiptForm.resources
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.SearchProducts.resources
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Settings.resources
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Units.resources
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.csproj.GenerateResource.cache
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.csproj.CoreCompileInputs.cache
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.csproj.CopyComplete
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.exe
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.pdb
+D:\C#\PointOfSaleSystem\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Reports.resources
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\bin\Debug\PointOfSaleSystem.exe.config
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\bin\Debug\PointOfSaleSystem.exe
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\bin\Debug\PointOfSaleSystem.pdb
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\bin\Debug\AxShockwaveFlashObjects.dll
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\bin\Debug\CrystalDecisions.Shared.dll
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\bin\Debug\Guna.UI2.dll
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\bin\Debug\ShockwaveFlashObjects.dll
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\bin\Debug\stdole.dll
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.csproj.AssemblyReference.cache
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Brands.resources
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Categories.resources
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.DatabaseSettings.resources
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Expenses.resources
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Inventory.resources
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Ledgers.resources
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Login.resources
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.MDI.resources
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.HomeScreen.resources
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Persons.resources
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.POS.resources
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Products.resources
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Properties.Resources.resources
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.PurchaseInvoice.resources
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.QuantityForm.resources
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Reports.resources
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.SaleReceiptForm.resources
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.SearchProducts.resources
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Settings.resources
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.Units.resources
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.csproj.GenerateResource.cache
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.csproj.CoreCompileInputs.cache
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.csproj.CopyComplete
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.exe
+D:\C#\PointOfSaleSystemPOS\PointOfSaleSystem\obj\Debug\PointOfSaleSystem.pdb

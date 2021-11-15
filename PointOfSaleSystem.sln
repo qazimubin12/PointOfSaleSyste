@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointOfSaleSystem", "PointOfSaleSystem\PointOfSaleSystem.csproj", "{D49721E8-D7ED-4424-8D56-0606D77D4D4D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "POSystem", "POSystem\POSystem.vdproj", "{CD75FB70-F27A-4B60-A3EA-2F26F9F0F5BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D49721E8-D7ED-4424-8D56-0606D77D4D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D49721E8-D7ED-4424-8D56-0606D77D4D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D49721E8-D7ED-4424-8D56-0606D77D4D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D49721E8-D7ED-4424-8D56-0606D77D4D4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD75FB70-F27A-4B60-A3EA-2F26F9F0F5BB}.Debug|Any CPU.ActiveCfg = Debug
+		{CD75FB70-F27A-4B60-A3EA-2F26F9F0F5BB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21CAD088-1DEB-489A-9C43-31B9EF722554}
+	EndGlobalSection
+EndGlobal
